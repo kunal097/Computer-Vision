@@ -24,3 +24,10 @@
 ### --> Create Black image of size 512 x 512
 ### --> Draw different shapes
 ### --> Save all applied operations
+
+
+
+## cv_icon.py
+
+### --> Create Open cv icon
+### --> Generate cv_icon.png
