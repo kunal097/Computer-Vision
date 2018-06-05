@@ -41,3 +41,11 @@
 #### 		> Green color when Middle mouse button is clicked
 ####        > Red color when Right mouse button is clicked
 ###		--> Save as cv_mouse.png
+
+
+## paint_cv.py
+
+### 	--> Create Black image of size 512,512
+### 	--> Draw shapes(Rectangle / Circle) by dragging mouse on the window
+### 	--> Press 'm' to toggle between Rectangle and Circle
+### 	--> Press 'q' to save and quite
